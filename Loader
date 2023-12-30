@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync('https://ce.scriptemt.repl.co/Neurav', true))()
+loadstring(game:HttpGetAsync('https://proxy.scriptemt.repl.co/main.lua', true))()
